@@ -3,4 +3,5 @@ user_data.pickle
 quiz_data.pickle
 stats_data.json
 .env
+poetry.lock
 bible/
