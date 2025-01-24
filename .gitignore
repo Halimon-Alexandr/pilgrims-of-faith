@@ -1,4 +1,6 @@
 __pycache__
 user_data.pickle
+quiz_data.pickle
+stats_data.json
 .env
 bible/
